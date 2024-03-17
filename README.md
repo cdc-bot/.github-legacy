@@ -1,2 +1,2 @@
-# .github
-https://github.com/BFT-Group
+# .github-legacy
+[.github](https://github.com/cdc-bot/.github/)
